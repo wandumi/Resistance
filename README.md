@@ -6,6 +6,6 @@ Sorting the PDF Files working using Vue Draggable
 
 PHP / Javascript Developer
 
-## Laravel Sponsors
+## Sponsors
 
 None
